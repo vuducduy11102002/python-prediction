@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops-predict-diabetes/mlruns/721647492724531169/f8cb98ae51604cbb850fbe8ee6f1303a/artifacts
+end_time: 1706004737348
+entry_point_name: ''
+experiment_id: '721647492724531169'
+lifecycle_stage: active
+run_id: f8cb98ae51604cbb850fbe8ee6f1303a
+run_name: awesome-sheep-498
+run_uuid: f8cb98ae51604cbb850fbe8ee6f1303a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706004732333
+status: 3
+tags: []
+user_id: dell

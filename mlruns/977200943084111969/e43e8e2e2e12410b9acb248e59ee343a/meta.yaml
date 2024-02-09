@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops-predict-diabetes/mlruns/977200943084111969/e43e8e2e2e12410b9acb248e59ee343a/artifacts
+end_time: 1706004742536
+entry_point_name: ''
+experiment_id: '977200943084111969'
+lifecycle_stage: active
+run_id: e43e8e2e2e12410b9acb248e59ee343a
+run_name: fearless-snipe-428
+run_uuid: e43e8e2e2e12410b9acb248e59ee343a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706004737456
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/977200943084111969
+creation_time: 1706004737385
+experiment_id: '977200943084111969'
+last_update_time: 1706004737385
+lifecycle_stage: active
+name: diabetes_decision_tree

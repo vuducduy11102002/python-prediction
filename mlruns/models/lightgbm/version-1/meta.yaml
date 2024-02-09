@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005099379
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005099379
+name: lightgbm
+run_id: f2412c8c37a04e90b0892b22b29a80f7
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/288156669154454227/f2412c8c37a04e90b0892b22b29a80f7/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/288156669154454227/f2412c8c37a04e90b0892b22b29a80f7/artifacts/model
+user_id: null
+version: 1

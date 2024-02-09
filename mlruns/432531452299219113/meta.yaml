@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/432531452299219113
+creation_time: 1706004748512
+experiment_id: '432531452299219113'
+last_update_time: 1706004748512
+lifecycle_stage: active
+name: diabetes_logistic_regression

@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/721647492724531169
+creation_time: 1706004732270
+experiment_id: '721647492724531169'
+last_update_time: 1706004732270
+lifecycle_stage: active
+name: diabetes_naive_bayes

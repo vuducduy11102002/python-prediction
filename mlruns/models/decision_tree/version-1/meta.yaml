@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005123282
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005123282
+name: decision_tree
+run_id: e43e8e2e2e12410b9acb248e59ee343a
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/977200943084111969/e43e8e2e2e12410b9acb248e59ee343a/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/977200943084111969/e43e8e2e2e12410b9acb248e59ee343a/artifacts/model
+user_id: null
+version: 1

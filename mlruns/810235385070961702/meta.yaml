@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/810235385070961702
+creation_time: 1706004654686
+experiment_id: '810235385070961702'
+last_update_time: 1706004654686
+lifecycle_stage: active
+name: diabetes_xgb

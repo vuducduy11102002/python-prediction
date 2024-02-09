@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005237074
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005237074
+name: knn
+run_id: d1ae57f7249c4e79b677df6fa88a3b47
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/452669798459524664/d1ae57f7249c4e79b677df6fa88a3b47/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/452669798459524664/d1ae57f7249c4e79b677df6fa88a3b47/artifacts/model
+user_id: null
+version: 1

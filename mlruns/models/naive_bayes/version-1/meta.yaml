@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005160108
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005160108
+name: naive_bayes
+run_id: f8cb98ae51604cbb850fbe8ee6f1303a
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/721647492724531169/f8cb98ae51604cbb850fbe8ee6f1303a/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/721647492724531169/f8cb98ae51604cbb850fbe8ee6f1303a/artifacts/model
+user_id: null
+version: 1

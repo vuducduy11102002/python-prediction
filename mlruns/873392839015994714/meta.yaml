@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/873392839015994714
+creation_time: 1706004726837
+experiment_id: '873392839015994714'
+last_update_time: 1706004726837
+lifecycle_stage: active
+name: diabetes_ada_boost

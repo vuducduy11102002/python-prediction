@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/452669798459524664
+creation_time: 1706004709991
+experiment_id: '452669798459524664'
+last_update_time: 1706004709991
+lifecycle_stage: active
+name: diabetes_knn

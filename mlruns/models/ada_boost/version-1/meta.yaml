@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005181254
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005181254
+name: ada_boost
+run_id: 8fbcb698b32045eb82991998faa985b0
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/873392839015994714/8fbcb698b32045eb82991998faa985b0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/873392839015994714/8fbcb698b32045eb82991998faa985b0/artifacts/model
+user_id: null
+version: 1

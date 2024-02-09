@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops-predict-diabetes/mlruns/558723626823823282/87540a5f1c0c4b86ab1b9772078c910c/artifacts
+end_time: 1706004726797
+entry_point_name: ''
+experiment_id: '558723626823823282'
+lifecycle_stage: active
+run_id: 87540a5f1c0c4b86ab1b9772078c910c
+run_name: clumsy-sloth-825
+run_uuid: 87540a5f1c0c4b86ab1b9772078c910c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706004721792
+status: 3
+tags: []
+user_id: dell

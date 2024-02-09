@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005199805
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005199805
+name: mlp
+run_id: 87540a5f1c0c4b86ab1b9772078c910c
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/558723626823823282/87540a5f1c0c4b86ab1b9772078c910c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/558723626823823282/87540a5f1c0c4b86ab1b9772078c910c/artifacts/model
+user_id: null
+version: 1

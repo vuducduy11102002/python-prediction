@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005256706
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005256706
+name: svm
+run_id: 1f8f7a7efc484d5e8e2082b7d2a7d12d
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/449574998577698976/1f8f7a7efc484d5e8e2082b7d2a7d12d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/449574998577698976/1f8f7a7efc484d5e8e2082b7d2a7d12d/artifacts/model
+user_id: null
+version: 1

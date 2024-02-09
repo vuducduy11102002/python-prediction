@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005272693
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005272693
+name: xgb
+run_id: 3717af6aabf84198be8d2e2a6580ca79
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/810235385070961702/3717af6aabf84198be8d2e2a6580ca79/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/810235385070961702/3717af6aabf84198be8d2e2a6580ca79/artifacts/model
+user_id: null
+version: 1

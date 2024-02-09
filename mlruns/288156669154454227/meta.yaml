@@ -1,0 +1,6 @@
+artifact_location: file:///D:/mlops-predict-diabetes/mlruns/288156669154454227
+creation_time: 1706004742579
+experiment_id: '288156669154454227'
+last_update_time: 1706004742579
+lifecycle_stage: active
+name: diabetes_lightgbm

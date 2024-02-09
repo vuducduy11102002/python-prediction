@@ -1,0 +1,24 @@
+# model_name: "xgb"
+# model_version: 1
+# predict multiple models
+models:
+  - model_name: "xgb"
+    model_version: 1
+  - model_name: "svm"
+    model_version: 1
+  - model_name: "knn"
+    model_version: 1
+  - model_name: "random_forest"
+    model_version: 1
+  - model_name: "mlp"
+    model_version: 1
+  - model_name: "ada_boost"
+    model_version: 1
+  - model_name: "naive_bayes"
+    model_version: 1
+  - model_name: "decision_tree"
+    model_version: 1
+  - model_name: "lightgbm"
+    model_version: 1
+  - model_name: "logistic_regression"
+    model_version: 1

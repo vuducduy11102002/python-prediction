@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops-predict-diabetes/mlruns/873392839015994714/8fbcb698b32045eb82991998faa985b0/artifacts
+end_time: 1706004732233
+entry_point_name: ''
+experiment_id: '873392839015994714'
+lifecycle_stage: active
+run_id: 8fbcb698b32045eb82991998faa985b0
+run_name: gregarious-snipe-559
+run_uuid: 8fbcb698b32045eb82991998faa985b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706004727115
+status: 3
+tags: []
+user_id: dell

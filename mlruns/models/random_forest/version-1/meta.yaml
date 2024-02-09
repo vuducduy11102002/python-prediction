@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1706005223053
+current_stage: None
+description: ''
+last_updated_timestamp: 1706005223053
+name: random_forest
+run_id: 8e5fd9c031f5405b8102f9b77261584e
+run_link: ''
+source: file:///D:/mlops-predict-diabetes/mlruns/319795550853608728/8e5fd9c031f5405b8102f9b77261584e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/mlops-predict-diabetes/mlruns/319795550853608728/8e5fd9c031f5405b8102f9b77261584e/artifacts/model
+user_id: null
+version: 1

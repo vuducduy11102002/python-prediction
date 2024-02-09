@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlops-predict-diabetes/mlruns/810235385070961702/3717af6aabf84198be8d2e2a6580ca79/artifacts
+end_time: 1706004705625
+entry_point_name: ''
+experiment_id: '810235385070961702'
+lifecycle_stage: active
+run_id: 3717af6aabf84198be8d2e2a6580ca79
+run_name: gregarious-whale-136
+run_uuid: 3717af6aabf84198be8d2e2a6580ca79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706004693690
+status: 3
+tags: []
+user_id: dell
